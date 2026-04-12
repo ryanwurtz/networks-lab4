@@ -1,0 +1,11 @@
+alpha.test
+beta.test
+gamma.test
+delta.test
+epsilon.test
+zeta.test
+eta.test
+alias.test
+missing.test
+
+# These are all the domains that can be accessed in the fake DNS hierarchy.
